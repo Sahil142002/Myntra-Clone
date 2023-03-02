@@ -5,7 +5,7 @@ To get started with the project, clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/mynta-clone.git
+git clone 
 Prerequisites
 To run the project, you will need to have Node.js installed on your machine.
 
