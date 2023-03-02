@@ -13,7 +13,7 @@ Installing
 To install the required dependencies, navigate to the project directory and run the following command:
 
 bash
-Copy code
+Copy the code
 npm install
 Running the Project
 To run the project, navigate to the project directory and run the following command:
